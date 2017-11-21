@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>lwr_description</name>
+  <name>iit-kuka_lwr-ros-pkg</name>
   <version>0.1.0</version>
   <description>The lwr_description package contains the model of a KUKA LWR 4+ arm.</description>
 
